@@ -5,7 +5,8 @@ I'm moving into BI: SQL, data modeling and dashboards that answer business quest
 
 ## Featured project: E-commerce Analytics (Olist)
 An end-to-end BI project on about 100,000 e-commerce orders: raw data loaded into PostgreSQL,
-modeled as a tested star schema (4 dimensions, 2 fact tables), business questions answered in SQL,
+modeled as a star schema (4 dimensions, 2 fact tables) and rebuilt in dbt with 45 tests,
+business questions answered in SQL,
 and findings presented in Tableau dashboards.
 
 - Late orders average a **2.27** review score, compared with **4.29** for orders delivered on time.
@@ -22,7 +23,8 @@ and findings presented in Tableau dashboards.
 - **Tableau:** LOD expressions, parameters, sets, filter actions
 - **Excel:** pivot tables, SUMIFS, COUNTIFS
 - **Business analysis:** requirements, BPMN, UML, Jira, Confluence, Git
-- **Currently learning:** Power BI and DAX, dbt
+- **dbt:** sources, staging and mart models, generic and custom tests, documentation and lineage
+- **Currently learning:** Power BI and DAX
 
 ## Languages
 Russian (native), English and Czech (professional working)
