@@ -23,7 +23,7 @@ and findings presented in Tableau dashboards.
 - **Tableau:** LOD expressions, parameters, sets, filter actions
 - **Excel:** pivot tables, SUMIFS, COUNTIFS
 - **Business analysis:** requirements, BPMN, UML, Jira, Confluence, Git
-- **dbt:** sources, staging and mart models, generic and custom tests, documentation and lineage
+- **dbt (basics):** sources, staging and mart models, generic and custom tests, documentation and lineage
 - **Currently learning:** Power BI and DAX
 
 ## Languages
