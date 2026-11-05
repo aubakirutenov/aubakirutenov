@@ -13,7 +13,7 @@ and findings presented in Power BI and Tableau dashboards.
 - The top 10% of sellers bring in **67.5%** of revenue.
 - Only **3.0%** of customers order a second time.
 
-[Repository](https://github.com/aubakirutenov/ecommerce_portfolio) ·
+[Repository](https://github.com/aubakirutenov/ecommerce_analytics) ·
 [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWQxMmI1ZjctMGYwNS00MTYzLWE0ODctMmQzNzZkOTRmNTVhIiwidCI6IjJiNTFhNGIzLTQ0M2YtNDQwNi04Y2E0LTE5MDU2YTc5YTQ0NCIsImMiOjh9) ·
 [Tableau: delivery and reviews](https://public.tableau.com/app/profile/aubakirutenov/viz/OlistStarSchemaDashboard/Olistdeliveryandreviews) ·
 [Tableau: revenue overview](https://public.tableau.com/app/profile/aubakirutenov/viz/OlistStarSchemaDashboard/Olistrevenueoverview)
