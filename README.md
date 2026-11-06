@@ -18,6 +18,13 @@ and findings presented in Power BI and Tableau dashboards.
 [Tableau: delivery and reviews](https://public.tableau.com/app/profile/aubakirutenov/viz/OlistStarSchemaDashboard/Olistdeliveryandreviews) ·
 [Tableau: revenue overview](https://public.tableau.com/app/profile/aubakirutenov/viz/OlistStarSchemaDashboard/Olistrevenueoverview)
 
+## In progress: Bank Analytics (Berka)
+Data from a Czech bank, 1993–1998: accounts, clients, 1 million transactions, loans and cards.
+The raw layer is loaded into PostgreSQL and checked; next come dbt staging and marts with tests,
+and a Power BI dashboard on loan risk.
+
+[Repository](https://github.com/aubakirutenov/bank_analytics)
+
 ## Skills
 - **SQL (PostgreSQL):** CTEs, window functions, subqueries, query checks
 - **Data modeling:** star schema, grain, fact and dimension tables, model tests
