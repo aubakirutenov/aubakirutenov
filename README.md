@@ -18,12 +18,16 @@ and findings presented in Power BI and Tableau dashboards.
 [Tableau: delivery and reviews](https://public.tableau.com/app/profile/aubakirutenov/viz/OlistStarSchemaDashboard/Olistdeliveryandreviews) ·
 [Tableau: revenue overview](https://public.tableau.com/app/profile/aubakirutenov/viz/OlistStarSchemaDashboard/Olistrevenueoverview)
 
-## In progress: Bank Analytics (Berka)
-Data from a Czech bank, 1993–1998: accounts, clients, 1 million transactions, loans and cards.
-The raw layer is loaded into PostgreSQL and checked; next come dbt staging and marts with tests,
-and a Power BI dashboard on loan risk.
+## Second project: Bank Analytics (Berka)
+Which loans go bad? Data from a Czech bank, 1993–1998: 4,500 accounts, 1 million transactions and 682 loans,
+loaded into PostgreSQL, modeled as a dbt star schema with 120 tests,
+and presented in a Power BI dashboard on loan risk and client activity.
 
-[Repository](https://github.com/aubakirutenov/bank_analytics)
+- Loans above 200k CZK go bad **2–3×** as often as loans under 100k.
+- All **27** loans on accounts overdrawn before the loan went bad, but most bad loans (**49 of 76**) gave no such warning.
+- Cash made up **41%** of all transactions; card payments were under **1%**.
+
+[Repository](https://github.com/aubakirutenov/bank_analytics) · [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGE1MDA1MTUtNjA2Ny00MTI2LWFkMmUtYzBhNjI2MDkyYWM1IiwidCI6IjJiNTFhNGIzLTQ0M2YtNDQwNi04Y2E0LTE5MDU2YTc5YTQ0NCIsImMiOjh9)
 
 ## Skills
 - **SQL (PostgreSQL):** CTEs, window functions, subqueries, query checks
