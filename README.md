@@ -42,4 +42,4 @@ and presented in a Power BI dashboard on loan risk and client activity.
 Russian (native), English and Czech (professional working)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/aubakirutenov) · aubakirg@gmail.com
+[LinkedIn](https://www.linkedin.com/in/aubakirutenov) · aubakirutenov@gmail.com
